@@ -1,0 +1,6 @@
+2022-02-19 11:43:53 FATAL Main:49 - fatal
+2022-02-19 11:43:53 ERROR Main:50 - error
+2022-02-19 11:43:53 WARN  Main:51 - warn
+2022-02-19 11:43:53 INFO  Main:52 - info
+2022-02-19 11:43:53 DEBUG Main:53 - debug
+2022-02-19 11:43:53 TRACE Main:54 - trace
